@@ -15,17 +15,17 @@
     <meta property="og:url" content="https://mechashair.com.br/">
     <meta property="og:title" content="Mechas Hair - Compramos Seu Cabelo Natural | Pix na Hora">
     <meta property="og:description" content="Transforme seus fios em dinheiro. Avaliação online instantânea, logística segura para todo o Brasil e pagamento imediato via Pix!">
-    <meta property="og:image" content="./logomh.png">
+    <meta property="og:image" content="logomh.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://mechashair.com.br/">
     <meta property="twitter:title" content="Mechas Hair - Compramos Seu Cabelo Natural | Pix na Hora">
     <meta property="twitter:description" content="Transforme seus fios em dinheiro. Avaliação online instantânea, logística segura para todo o Brasil e pagamento imediato via Pix!">
-    <meta property="twitter:image" content="./logomh.png">
+    <meta property="twitter:image" content="logomh.png">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="./logomh.png">
+    <link rel="icon" type="image/png" href="logomh.png">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -50,7 +50,7 @@
     <header class="main-header" id="site-header">
         <div class="container header-container">
             <a href="#" class="logo" id="header-logo-link">
-                <img src="./logomh.png" alt="Mechas Hair Logo" class="logo-img">
+                <img src="logomh.png" alt="Mechas Hair Logo" class="logo-img">
                 <span class="logo-text">MECHAS <span class="accent-text">HAIR</span></span>
             </a>
             
@@ -124,7 +124,7 @@
                 <div class="hero-visual">
                     <div class="image-stack">
                         <div class="main-image-container glow-border">
-                            <img src="./Texto Imagem Instagram.png" alt="Mechas Hair: seu cabelo vale dinheiro" class="hero-main-img">
+                            <img src="Texto Imagem Instagram.png" alt="Mechas Hair: seu cabelo vale dinheiro" class="hero-main-img">
                             <a href="https://wa.me/5555981004034?text=Ol%C3%A1%2C%20vim%20pelo%20site%2C%20gostaria%20de%20fazer%20uma%20avalia%C3%A7%C3%A3o%20gratuita%20com%20a%20Mechas%20Hair." class="floating-badge text-badge" target="_blank" aria-label="Chamar a Mechas Hair no WhatsApp">
                                 <span class="badge-title">Chama no WhatsApp</span>
                                 <span class="badge-value">(55) 98100-4034</span>
@@ -204,7 +204,7 @@
             <div class="container benefits-container">
                 <div class="benefits-visual">
                     <div class="specialist-photo-container glow-border">
-                        <img src="./wmremove-transformed (2).png" alt="Especialista Mechas Hair pronta para avaliar cabelos naturais" class="specialist-photo">
+                        <img src="wmremove-transformed (2).png" alt="Especialista Mechas Hair pronta para avaliar cabelos naturais" class="specialist-photo">
                         <div class="specialist-badge">
                             <i class="fas fa-user-check"></i>
                             <span>Avaliação especializada</span>
@@ -419,9 +419,9 @@
 
                 <div class="transformation-feature glow-border">
                     <div class="comparison-card" style="--position: 50%;">
-                        <img src="./mechashair__539394899_18035698472692899_1072011173632951539_n.jpg" alt="Depois da transformação com novo corte e mecha vendida" class="comparison-img comparison-before">
+                        <img src="mechashair__539394899_18035698472692899_1072011173632951539_n.jpg" alt="Depois da transformação com novo corte e mecha vendida" class="comparison-img comparison-before">
                         <div class="comparison-after-wrap">
-                            <img src="./mechashair__539251670_18035698463692899_4838720542539522849_n.jpg" alt="Antes da transformação com cabelo longo natural" class="comparison-img comparison-after">
+                            <img src="mechashair__539251670_18035698463692899_4838720542539522849_n.jpg" alt="Antes da transformação com cabelo longo natural" class="comparison-img comparison-after">
                         </div>
                         <div class="comparison-label before-label">Antes</div>
                         <div class="comparison-label after-label">Depois</div>
@@ -456,8 +456,8 @@
                     <div class="gallery-grid" id="masonry-gallery">
                     
                     <!-- Item 1 (Liso/Castanho) -->
-                    <div class="gallery-item lisos" data-src="./mechashair__548867812_18038038085692899_4762145173771625166_n.jpg">
-                        <img src="./mechashair__548867812_18038038085692899_4762145173771625166_n.jpg" alt="Cabelo liso saudável" loading="lazy" class="gallery-img">
+                    <div class="gallery-item lisos" data-src="mechashair__548867812_18038038085692899_4762145173771625166_n.jpg">
+                        <img src="mechashair__548867812_18038038085692899_4762145173771625166_n.jpg" alt="Cabelo liso saudável" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Corte aprovado e venda finalizada</h4>
@@ -467,8 +467,8 @@
                     </div>
 
                     <!-- Item 2 (Loiro/Ondulado) -->
-                    <div class="gallery-item loiros lisos" data-src="./mechashair__568157703_18042663440692899_4836120822254493123_n.jpg">
-                        <img src="./mechashair__568157703_18042663440692899_4836120822254493123_n.jpg" alt="Cabelo loiro luxuoso" loading="lazy" class="gallery-img">
+                    <div class="gallery-item loiros lisos" data-src="mechashair__568157703_18042663440692899_4836120822254493123_n.jpg">
+                        <img src="mechashair__568157703_18042663440692899_4836120822254493123_n.jpg" alt="Cabelo loiro luxuoso" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Fios longos com ondulação natural</h4>
@@ -478,8 +478,8 @@
                     </div>
 
                     <!-- Item 3 (Cacheado/Crespo) -->
-                    <div class="gallery-item cacheados" data-src="./mechashair__539251670_18035698463692899_4838720542539522849_n.jpg">
-                        <img src="./mechashair__539251670_18035698463692899_4838720542539522849_n.jpg" alt="Cabelo cacheado vibrante" loading="lazy" class="gallery-img">
+                    <div class="gallery-item cacheados" data-src="mechashair__539251670_18035698463692899_4838720542539522849_n.jpg">
+                        <img src="mechashair__539251670_18035698463692899_4838720542539522849_n.jpg" alt="Cabelo cacheado vibrante" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Comprimento longo e alinhado</h4>
@@ -489,8 +489,8 @@
                     </div>
 
                     <!-- Item 4 (Video MP4) -->
-                    <div class="gallery-item video-item lisos" data-src="./mechashair__475339873_18012623330692899_4554683539737704119_n.jpg">
-                        <img src="./mechashair__475339873_18012623330692899_4554683539737704119_n.jpg" alt="Lote de mechas selecionadas" loading="lazy" class="gallery-img">
+                    <div class="gallery-item video-item lisos" data-src="mechashair__475339873_18012623330692899_4554683539737704119_n.jpg">
+                        <img src="mechashair__475339873_18012623330692899_4554683539737704119_n.jpg" alt="Lote de mechas selecionadas" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Mechas separadas com cuidado</h4>
@@ -500,8 +500,8 @@
                     </div>
 
                     <!-- Item 5 (Ruivo/Loiro) -->
-                    <div class="gallery-item loiros" data-src="./mechashair__484340729_18017363252692899_1247287410035147590_n.jpg">
-                        <img src="./mechashair__484340729_18017363252692899_1247287410035147590_n.jpg" alt="Cabelo ruivo acobreado" loading="lazy" class="gallery-img">
+                    <div class="gallery-item loiros" data-src="mechashair__484340729_18017363252692899_1247287410035147590_n.jpg">
+                        <img src="mechashair__484340729_18017363252692899_1247287410035147590_n.jpg" alt="Cabelo ruivo acobreado" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Resultado com fios macios</h4>
@@ -511,8 +511,8 @@
                     </div>
 
                     <!-- Item 6 (Ondulado/Volume) -->
-                    <div class="gallery-item cacheados" data-src="./mechashair__539555160_18035698304692899_780905335685422657_n.jpg">
-                        <img src="./mechashair__539555160_18035698304692899_780905335685422657_n.jpg" alt="Cabelo ondulado com volume" loading="lazy" class="gallery-img">
+                    <div class="gallery-item cacheados" data-src="mechashair__539555160_18035698304692899_780905335685422657_n.jpg">
+                        <img src="mechashair__539555160_18035698304692899_780905335685422657_n.jpg" alt="Cabelo ondulado com volume" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Textura natural valorizada</h4>
@@ -522,8 +522,8 @@
                     </div>
 
                     <!-- Item 7 (Liso Curto/Escuro) -->
-                    <div class="gallery-item lisos" data-src="./mechashair__548891598_18038038358692899_3077353941898833262_n.jpg">
-                        <img src="./mechashair__548891598_18038038358692899_3077353941898833262_n.jpg" alt="Cabelo liso com brilho" loading="lazy" class="gallery-img">
+                    <div class="gallery-item lisos" data-src="mechashair__548891598_18038038358692899_3077353941898833262_n.jpg">
+                        <img src="mechashair__548891598_18038038358692899_3077353941898833262_n.jpg" alt="Cabelo liso com brilho" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Cabelo liso com pontas cheias</h4>
@@ -533,8 +533,8 @@
                     </div>
 
                     <!-- Item 8 (Cacheado Loiro) -->
-                    <div class="gallery-item cacheados loiros" data-src="./mechashair__484123475_18017363237692899_1740551899149396265_n.jpg">
-                        <img src="./mechashair__484123475_18017363237692899_1740551899149396265_n.jpg" alt="Cabelo cacheado loiro" loading="lazy" class="gallery-img">
+                    <div class="gallery-item cacheados loiros" data-src="mechashair__484123475_18017363237692899_1740551899149396265_n.jpg">
+                        <img src="mechashair__484123475_18017363237692899_1740551899149396265_n.jpg" alt="Cabelo cacheado loiro" loading="lazy" class="gallery-img">
                         <div class="gallery-item-overlay">
                             <span class="instagram-tag"><i class="fab fa-instagram"></i> @mechashair_</span>
                             <h4>Ondas leves e cor iluminada</h4>
@@ -965,7 +965,7 @@
         <div class="container footer-grid">
             <div class="footer-brand">
                 <a href="#" class="footer-logo">
-                    <img src="./logomh.png" alt="Mechas Hair Logo" class="logo-img">
+                    <img src="logomh.png" alt="Mechas Hair Logo" class="logo-img">
                     <span class="logo-text">MECHAS <span class="accent-text">HAIR</span></span>
                 </a>
                 <p class="footer-desc">
